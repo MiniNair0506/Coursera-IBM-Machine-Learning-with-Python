@@ -1,1 +1,1 @@
-# Coursera-IBM-Machine-Learning-with-Python
+This repository contains Coursera-IBM Machine Learning with Python lab assignments and Final Project
